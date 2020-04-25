@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: blue;
+    background-color: lightgray;
+}
+ .card-body {
+     text-align: center;
+ }
+
+.card-body {
+    background-color: whitesmoke;
+    font-family: cursive;
+}
